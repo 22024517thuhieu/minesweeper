@@ -126,5 +126,6 @@ void printResult(){
 		}
 	}
 	printMineField();
+	/ksmx
 }
 
